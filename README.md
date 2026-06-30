@@ -10,11 +10,17 @@ This repository contains my **Week 1 AI/ML Internship** project on **Exploratory
 - NumPy
 - Seaborn
 - Matplotlib
+
+## Dataset
+The dataset used in this project is the **Online Retail II** dataset from the UCI Machine Learning Repository.
+Due to its large size, it is not included in this repository.
+
+Name: Online Retail II Dataset
+Link: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
   
 ## Repositry Contents
 - EDA_Week1(Areeba Amjad).ipynb - Complete Jupyter Notebook
 - Week1_Report_Areeba_Amjad - Project Documentation
-- Online_Retail_II.csv - Dataset
 - Images – Graphs and Visualizations -
 - requirements.txt – Required Python Libraries
 
