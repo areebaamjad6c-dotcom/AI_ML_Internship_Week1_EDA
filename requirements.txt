@@ -1,0 +1,7 @@
+Libraries Required 
+- pandas
+- numpy
+- matplotlib
+- seaborn
+Tool Required
+- Jupyter Notebook
