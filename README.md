@@ -20,7 +20,7 @@ Link: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
   
 ## Repositry Contents
 - EDA_Week1(Areeba Amjad).ipynb - Complete Jupyter Notebook
-- Week1_Report_Areeba_Amjad - Project Documentation
+- Week1_Report - Project Documentation
 - Images – Graphs and Visualizations -
 - requirements.txt – Required Python Libraries
 
